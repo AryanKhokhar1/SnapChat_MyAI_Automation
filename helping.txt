@@ -1,0 +1,6 @@
+This code is for 15.6 inch laptop. I will give some code changes for differenct screen size code
+
+take input position = 540 967
+
+output position = 1842 860
+
