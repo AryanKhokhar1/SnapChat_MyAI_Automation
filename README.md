@@ -1,25 +1,5 @@
 # SnapChat_MyAI_Automation
 
-        /* Add your CSS styles here to customize the appearance of your README */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-        }
-
-        h1 {
-            color: #ff6b6b;
-            font-size: 36px;
-        }
-
-        p {
-            margin-bottom: 1.5rem;
-            color: #333;
-            font-size: 18px;
-            line-height: 1.6;
-        }
-
-        /* You can add more styles as needed */
-    </style>
     <h1>Welcome to Project: AI-Enhanced Snapchat Conversations</h1>
     
     <p>
